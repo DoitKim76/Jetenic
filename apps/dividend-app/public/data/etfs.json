@@ -1,0 +1,50 @@
+[
+  {
+    "ticker": "TSLY",
+    "name": "YieldMax TSLA Option Income Strategy ETF",
+    "issuer": "YieldMax",
+    "currency": "USD",
+    "frequency": "weekly",
+    "withholding_tax_rate": 0.15
+  },
+  {
+    "ticker": "MSTY",
+    "name": "YieldMax MSTR Option Income Strategy ETF",
+    "issuer": "YieldMax",
+    "currency": "USD",
+    "frequency": "weekly",
+    "withholding_tax_rate": 0.15
+  },
+  {
+    "ticker": "QDTE",
+    "name": "Roundhill Innovation-100 0DTE Covered Call Strategy ETF",
+    "issuer": "Roundhill",
+    "currency": "USD",
+    "frequency": "weekly",
+    "withholding_tax_rate": 0.15
+  },
+  {
+    "ticker": "RDTE",
+    "name": "Roundhill Russell 2000 0DTE Covered Call Strategy ETF",
+    "issuer": "Roundhill",
+    "currency": "USD",
+    "frequency": "weekly",
+    "withholding_tax_rate": 0.15
+  },
+  {
+    "ticker": "XDTE",
+    "name": "Roundhill S&P 500 0DTE Covered Call Strategy ETF",
+    "issuer": "Roundhill",
+    "currency": "USD",
+    "frequency": "weekly",
+    "withholding_tax_rate": 0.15
+  },
+  {
+    "ticker": "BITX",
+    "name": "Volatility Shares 2x Bitcoin Strategy ETF",
+    "issuer": "Volatility Shares",
+    "currency": "USD",
+    "frequency": "weekly",
+    "withholding_tax_rate": 0.15
+  }
+]

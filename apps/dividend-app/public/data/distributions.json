@@ -1,0 +1,60 @@
+{
+  "lastUpdated": "2026-05-08T03:00:00Z",
+  "verifiedBy": "hines",
+  "distributions": {
+    "TSLY": [
+      {
+        "declarationDate": "2026-05-07",
+        "exDate": "2026-05-08",
+        "payDate": "2026-05-13",
+        "amount": 0.2034,
+        "source": "https://yieldmaxetfs.com/distributions/"
+      }
+    ],
+    "MSTY": [
+      {
+        "declarationDate": "2026-05-07",
+        "exDate": "2026-05-08",
+        "payDate": "2026-05-13",
+        "amount": 1.4521,
+        "source": "https://yieldmaxetfs.com/distributions/"
+      }
+    ],
+    "QDTE": [
+      {
+        "declarationDate": "2026-05-07",
+        "exDate": "2026-05-08",
+        "payDate": "2026-05-13",
+        "amount": 0.1187,
+        "source": "https://www.roundhillinvestments.com/etf/qdte/"
+      }
+    ],
+    "RDTE": [
+      {
+        "declarationDate": "2026-05-07",
+        "exDate": "2026-05-08",
+        "payDate": "2026-05-13",
+        "amount": 0.0934,
+        "source": "https://www.roundhillinvestments.com/etf/rdte/"
+      }
+    ],
+    "XDTE": [
+      {
+        "declarationDate": "2026-05-07",
+        "exDate": "2026-05-08",
+        "payDate": "2026-05-13",
+        "amount": 0.1056,
+        "source": "https://www.roundhillinvestments.com/etf/xdte/"
+      }
+    ],
+    "BITX": [
+      {
+        "declarationDate": "2026-05-07",
+        "exDate": "2026-05-08",
+        "payDate": "2026-05-13",
+        "amount": 0.7812,
+        "source": "https://volatilityshares.com/bitx/"
+      }
+    ]
+  }
+}
